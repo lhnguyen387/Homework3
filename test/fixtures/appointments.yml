@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  visit: 2019-10-28
+  physician: one
+
+two:
+  visit: 2019-10-28
+  physician: two
